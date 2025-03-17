@@ -105,5 +105,5 @@ lib/
 
 ## 👨‍💻 Developer Info
 
-**Name:** [Suman Panigrahi]  
-**Email:** [psuman7155@gmail.com]
+**Name:** Suman Panigrahi  
+**Email:** psuman7155@gmail.com
