@@ -95,14 +95,6 @@ lib/
 
 ---
 
-## 📎 Submission Instructions
-
-- Upload the project as **GitHub Repository or ZIP file**
-- Fill in the **Google Form Submission Link** shared by the company
-- Ensure README.md and code documentation are included
-
----
-
 ## 👨‍💻 Developer Info
 
 **Name:** Suman Panigrahi  
